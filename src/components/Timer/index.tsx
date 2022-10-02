@@ -20,11 +20,11 @@ export default function Timer({ selectedTask }: ITimerProps) {
 
    
   return (
-    <div className={style.timer}>
+    <div className={style.timer}> 
       <p className={style.title}>Escolha um card e inicie o cronometro</p>
-      Tempo: {time}
+
       <div className={style.clockWrapper}>
-        <Clock />
+        <Clock time={time} />
       </div>
       <Button>Começar!</Button>
     </div>
