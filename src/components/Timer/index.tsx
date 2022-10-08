@@ -18,6 +18,15 @@ export default function Timer({ selectedTask }: ITimerProps) {
     }
   }, [selectedTask]);
 
+  function regressive(counter: number = 0) {
+    setTimeout( () => {
+      if (counter > 0) {
+        setTime(counter - 1);
+        return regressive(counter - 1);
+      }
+    }, 1000);
+
+  }
    
   return (
     <div className={style.timer}> 
@@ -26,7 +35,7 @@ export default function Timer({ selectedTask }: ITimerProps) {
       <div className={style.clockWrapper}>
         <Clock time={time} />
       </div>
-      <Button>Começar!</Button>
+      <Button onClick={() => regressive(time)}>Começar!</Button>
     </div>
   );
 } 
