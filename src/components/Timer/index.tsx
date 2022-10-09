@@ -7,9 +7,10 @@ import style from "./Timer.module.scss";
 
 interface ITimerProps {
   selectedTask?: ITask | undefined;
+  endTask: () => void;
 }
 
-export default function Timer({ selectedTask }: ITimerProps) {
+export default function Timer({ selectedTask, endTask }: ITimerProps) {
   const [time, setTime] = useState<number>();
 
   useEffect(() => {
@@ -24,6 +25,7 @@ export default function Timer({ selectedTask }: ITimerProps) {
         setTime(counter - 1);
         return regressive(counter - 1);
       }
+      endTask();
     }, 1000);
 
   }
