@@ -14,12 +14,12 @@
 
 ## 📚 Sobre
 
-O projeto eSports consiste em uma plataforma de jogos.
+O projeto My Alura Studies consiste em um sistema de estudos, em que você pode adicionar tarefas/objetivos e cronometrar seu tempo de estudo.
 
 ## 🚀 Tecnologias utilizadas:
 
 - ReactJS
-- 
+- Typescript
 
 ## ⏱ Como executar
 
