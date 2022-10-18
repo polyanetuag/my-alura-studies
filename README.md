@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>eMy Alura Studies</h1>
+  <h1>My Alura Studies</h1>
    <img width= '800' src="">
 </div>
 
