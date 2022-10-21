@@ -1,6 +1,6 @@
 <div align="center">
   <h1>My Alura Studies</h1>
-   <img width= '800' src="">
+   <img width= '300' src="./public/img.png">
 </div>
 
 <h3 align="center">  
