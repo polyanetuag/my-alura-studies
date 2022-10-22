@@ -1,16 +1,15 @@
 <div align="center">
-  <h1>My Alura Studies</h1>
-   <img width= '300' src="./public/img.png">
-</div>
-
-<h3 align="center">  
+  <h1>🎯 My Alura Studies</h1>
   <p align="center">
     <a href="#-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-licença">Licença</a>
-  </p>
-</h3>
+</p>
+   <img width= '300' src="./public/img.png">
+</div>
+
+
 
 ## 📚 Sobre
 
