@@ -6,7 +6,7 @@
     <a href="#-como-executar">Como Executar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-licença">Licença</a>
 </p>
-   <img width= '300' src="./public/img.png">
+   <img width= '500' src="./public/img.png">
 </div>
 
 
