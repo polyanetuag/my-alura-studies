@@ -13,7 +13,7 @@
 
 ## 📚 Sobre
 
-O projeto My Alura Studies consiste em um sistema de controle para estudos. Nele você pode adicionar tarefas/objetivos e cronometrar seu tempo para melhor foco e aprendizado.
+O projeto My Alura Studies consiste em um sistema de controle para estudos. Nele, você pode adicionar tarefas/objetivos e cronometrar seu tempo para melhor foco e aprendizado.
 
 ## 🚀 Tecnologias utilizadas:
 
