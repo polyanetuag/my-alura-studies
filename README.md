@@ -19,6 +19,7 @@ O projeto My Alura Studies consiste em um sistema de controle para estudos. Nele
 
 - ReactJS
 - Typescript
+- Javascript
 
 ## ⏱ Como executar
 
